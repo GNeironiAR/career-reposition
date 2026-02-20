@@ -14,6 +14,7 @@ Diseñado para profesionales tech de LATAM que apuntan a roles remotos en empres
 | [`ai-orchestrator-jd.md`](ai-orchestrator-jd.md) | Ejemplo: Job Description generado para el rol AI Solutions Engineer (Fase 1) |
 | [`gap-analysis-public.md`](gap-analysis-public.md) | Ejemplo: Gap Analysis de un perfil real anonimizado contra ese rol (Fase 2) |
 | [`ai-learning-roadmap.md`](ai-learning-roadmap.md) | Ejemplo: Roadmap de aprendizaje y certificaciones generado para ese mismo rol (Fase 3) |
+| [`study-plan-public.md`](study-plan-public.md) | Ejemplo: Plan de estudio semanal detallado para el gap más urgente identificado (Fase 4) |
 
 > Los archivos de ejemplo muestran el tipo de output que podés esperar cuando corrés el prompt con tu propio rol objetivo.
 
